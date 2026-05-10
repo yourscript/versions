@@ -1,0 +1,16 @@
+{
+    "resource_name": "ys_clothesfix",
+    "current_version": "1.1.0",
+    "changelog": {
+        "1.1.0": {
+            "date": "2026-05-10",
+            "changes": [
+                "Production metadata initialized for Your Script releases"
+            ]
+        }
+    },
+    "links": {
+        "download": "https://portal.cfx.re/assets/granted-assets",
+        "support": "https://yourscript.dev/docs/ys-clothesfix"
+    }
+}
