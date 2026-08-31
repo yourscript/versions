@@ -1,7 +1,16 @@
 {
     "resource_name": "ys_inventory",
-    "current_version": "0.1.4",
+    "current_version": "0.1.6",
     "changelog": {
+        "0.1.6": {
+            "date": "2026-09-01",
+            "changes": [
+                "Added official item and clothing image catalogs with canonical Zyke CDN URLs",
+                "Hardened atomic inventory persistence, transfers, trades, shops, and stashes",
+                "Restored ESX inventory loading and starting balances after resource restarts",
+                "Refined keyboard accessibility, weight display, UI assets, and image performance"
+            ]
+        },
         "0.1.4": {
             "date": "2026-05-10",
             "changes": [
