@@ -1,7 +1,16 @@
 {
     "resource_name": "ys_clotheshop",
-    "current_version": "0.2.0",
+    "current_version": "0.2.3",
     "changelog": {
+        "0.2.3": {
+            "date": "2026-09-01",
+            "changes": [
+                "Added the official clothing image catalog with canonical Zyke CDN URLs",
+                "Filtered invisible, duplicate, reset-only, and phantom clothing variations",
+                "Kept ESX model and gender state synchronized across resource restarts",
+                "Hardened skin, outfit, and purchase persistence while refining the storefront UI"
+            ]
+        },
         "0.2.0": {
             "date": "2026-05-10",
             "changes": [
