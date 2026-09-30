@@ -1,7 +1,17 @@
 {
     "resource_name": "ys_inventory",
-    "current_version": "0.1.6",
+    "current_version": "1.0.1",
     "changelog": {
+        "1.0.1": {
+            "date": "2026-10-01",
+            "changes": [
+                "Added the transparent Pearl theme as the default for fresh profiles and Reset",
+                "Added a full-height empty ground-drop target with drag guidance",
+                "Prevented idle cleanup from unloading connected players clothing inventories",
+                "Fixed saved theme restoration and migrated earlier Pearl colors",
+                "Improved dropdown labels, slot bars, quantity controls, action spacing and weight readability"
+            ]
+        },
         "0.1.6": {
             "date": "2026-09-01",
             "changes": [
