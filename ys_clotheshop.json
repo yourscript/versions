@@ -1,7 +1,14 @@
 {
     "resource_name": "ys_clotheshop",
-    "current_version": "0.2.3",
+    "current_version": "1.0.1",
     "changelog": {
+        "1.0.1": {
+            "date": "2026-10-01",
+            "changes": [
+                "Prepared a maintenance package for joint deployment with ys_inventory v1.0.1",
+                "Rebuilt and validated the storefront; functional code remains unchanged from v0.2.3"
+            ]
+        },
         "0.2.3": {
             "date": "2026-09-01",
             "changes": [
